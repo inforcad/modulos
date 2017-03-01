@@ -76,7 +76,6 @@
 'calendar', 
 'contacts', 
 'decimal_precision', 
-'disable_openerp_online', 
 'document', 
 'document_url', 
 'edi', 
