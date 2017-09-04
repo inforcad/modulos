@@ -99,7 +99,6 @@
 'l10n_es_partner', 
 'l10n_es_toponyms', 
 'mass_editing', 
-'moduloinstalador', 
 'payment', 
 'payment_transfer', 
 'portal', 
