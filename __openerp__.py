@@ -87,7 +87,6 @@
 'l10n_es_account_asset', 
 'l10n_es_account_balance_report', 
 'l10n_es_account_bank_statement_import_n43', 
-'l10n_es_account_financial_report', 
 'l10n_es_account_invoice_sequence', 
 'l10n_es_aeat', 
 'l10n_es_aeat_mod111', 
