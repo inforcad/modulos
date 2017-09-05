@@ -7,7 +7,7 @@
         subtitle on modules listing or apps.openerp.com""",
 
     'description': """
-        Long description of module's purpose
+        mod 05/09/17 Long description of module's purpose
     """,
 
     'author': "Your Company",
